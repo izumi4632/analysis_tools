@@ -1,3 +1,4 @@
 [deps]
 Awabi = "b89ecf66-93e0-42cf-a85d-3fd691c1774b"
 Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
